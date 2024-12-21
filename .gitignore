@@ -1,0 +1,9 @@
+.env
+archive/
+.git
+langEnv/
+archive/
+*.sqlite3
+*.log
+**/__pycache__
+sandbox.ipynb
